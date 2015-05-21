@@ -1,0 +1,47 @@
+body {
+  background-color: #f9edbc;
+  font-family: 'Oswald', serif;}
+
+h1 {
+  background-color: #f97d16;
+  opacity: 0.5;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;}
+
+li {
+  text-align: center;}
+
+h2 {
+  background-color: #f97d16;
+  opacity: 0.5;}
+
+p1 {
+  font-family: 'Arvo', serif;
+  background-color: #f97d16;
+  opacity: 0.5;
+  font-size: 20px;}
+
+p2 {
+  font-family: 'Arvo', serif;
+  background-color: #f97d16;
+  opacity: 0.5;
+  font-size: 20px;}
+
+table, tr, th {
+  border: 1px solid black;
+  font-family: 'Arvo', serif;
+  border-collapse: collapse;
+  opacity: 0.9;
+  text-align: center;}
+
+th {
+  background-color: #7acdd7;
+  font-family: 'Arvo', serif;
+  background-size: 40px;}
+
+li:hover {
+    background-color: yellow;
+}
